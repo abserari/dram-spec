@@ -24,7 +24,7 @@ DRAM (Disaster Recovery Application Model) is compatible with [OAM](https://gith
 4. Automated failover: With support for automated failover, organizations can reduce the risk of downtime and ensure that applications remain available in the event of a disaster, improving the overall resilience of the system.
 
 ## Why
-The current challenge in disaster recovery is the high cost and limited effectiveness of unified solutions that attempt to backup all applications and data indiscriminately. This Application-centric approach reduces storage and bandwidth requirements, speeds up backup and recovery times, and enables finer-grained control over the recovery process, improving accuracy and reliability. 
+The current challenge in disaster recovery is the high cost and limited effectiveness of unified solutions that attempt to backup all applications and data indiscriminately. This Application-centric approach reduces storage and bandwidth requirements, speeds up backup and recovery times, and enables finer-grained control over the recovery process, improving accuracy and reliability. And the most important, for application it's should not transparent.
 
 ## Spec
 
